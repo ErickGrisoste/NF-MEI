@@ -1,42 +1,49 @@
-# NF-MEI: Sistema de emissão de nota físcal
+# 📌 NF-MEI: Visão Geral
 
-## 🎯 Problema
-Muitos autônomos e microempreendedores individuais (MEIs) enfrentam dificuldades para emitir notas fiscais, seja por falta de conhecimento técnico, por exigências burocráticas ou pela complexidade dos sistemas disponibilizados por prefeituras e estados. Além disso:
+### 🧨 Problema
+Muitos MEIs e autônomos enfrentam dificuldades para emitir notas fiscais devido à burocracia, sistemas confusos oferecidos por prefeituras e falta de organização com seus clientes, serviços e orçamentos. O processo é demorado, pouco intuitivo e feito de forma manual.
 
-- A maioria dos sistemas de emissão é voltada para empresas maiores, com fluxos complicados.
-- Muitos MEIs precisam emitir rapidamente uma nota após prestar um serviço, mas não têm um sistema organizado de orçamento e cadastro de clientes/produtos.
-- O processo é manual, repetitivo e demorado quando feito sem automação.
+### 💡 Solução
+Um aplicativo simples, acessível e voltado exclusivamente para o MEI. O NF-MEI permite gerar notas fiscais com agilidade, emitir orçamentos e recibos profissionais e organizar clientes e serviços de forma prática.
 
-## ✅ Solução
-O NF-MEI é um aplicativo pensado exclusivamente para atender às necessidades de autônomos e MEIs, oferecendo uma plataforma simples, acessível e funcional para a emissão de notas fiscais e a organização financeira básica do microempreendedor.
+### 👥 Usuários e Clientes
+#### Usuários (quem usa):
 
-Com ele, o usuário pode:
-
-### 🔹 Na versão Free:
-- Emitir notas fiscais manualmente, preenchendo os dados essenciais de forma simples e intuitiva;
-- Gerar o PDF da nota fiscal com layout profissional;
-- Consultar um histórico básico das notas emitidas.
-
-### 🔸 Na versão Plus:
-- Cadastrar clientes e serviços/produtos, automatizando o preenchimento dos dados;
-- Gerar orçamentos e recibos com aparência profissional;
-- Converter orçamentos em notas fiscais com 1 clique, economizando tempo;
-- Ter acesso a um painel com relatórios básicos de faturamento.
-
-## 👤 Usuários do NF-MEI
-São as pessoas que efetivamente usam o sistema no dia a dia:
-
-### 1. MEIs (Microempreendedores Individuais)
-- Prestadores de serviços (ex: encanadores, eletricistas, designers, programadores, etc.)
-- Vendedores autônomos
+- Microempreendedores Individuais
+- Prestadores de serviço (designers, programadores, eletricistas, etc.)
+- Pequenos vendedores autônomos
 - Profissionais liberais com CNPJ
-- Pessoas que precisam emitir nota fiscal esporadicamente ou com frequência
-  
-## 💼 Clientes (quem paga, se diferente dos usuários)
-Neste modelo, o próprio usuário é o cliente, pois o app é B2C (Business to Consumer). No plano gratuito ele usa livremente, mas no NF-MEI Plus ele paga por mais praticidade.
 
-#### Possíveis perfis de clientes:
-- MEIs que precisam emitir várias NFs por mês e desejam agilidade
-- Autônomos que querem se organizar melhor (com cadastro de clientes, produtos e orçamentos)
-- Pequenos prestadores que precisam gerar orçamentos profissionais
+#### Clientes (quem paga):
+- Os próprios usuários, no plano NF-MEI Plus, buscando mais agilidade e controle financeiro.
 
+### 🛠 Recursos Principais
+#### Versão Free:
+- Emissão manual de notas fiscais
+- Geração de PDF profissional da nota
+- Histórico básico de NFs
+
+#### Versão Plus:
+- Cadastro de clientes e serviços
+- Geração de orçamentos e recibos profissionais
+- Conversão de orçamentos em NFs com 1 clique
+- Relatórios básicos de faturamento
+
+### 📲 Canais
+- Aplicativo Web (inicialmente)
+- Divulgação via redes sociais (Instagram, TikTok, YouTube)
+- Parcerias com contadores e cursos de MEI
+- Comunidades de autônomos e grupos de WhatsApp
+
+### 💸 Custo e Receita
+#### Custos:
+- Desenvolvimento do sistema
+- Hospedagem (servidor, banco de dados, envio de PDFs)
+- Manutenção e atualizações
+- Marketing digital
+
+#### Receitas:
+- Plano gratuito com recursos básicos
+- Plano NF-MEI Plus com assinatura mensal (ex: R$ 9,90)
+- Possibilidade de planos anuais com desconto
+- Potencial de revenda white-label para contadores
