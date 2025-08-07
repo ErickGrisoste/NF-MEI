@@ -47,3 +47,19 @@ Um aplicativo simples, acessível e voltado exclusivamente para o MEI. O NF-MEI 
 - Plano NF-MEI Plus com assinatura mensal (ex: R$ 9,90)
 - Possibilidade de planos anuais com desconto
 - Potencial de revenda white-label para contadores
+
+
+Requisitos funcionais:
+Cadastro de usuários (MEIs) com login e senha;
+Deve ser possível emitir notas fiscais preenchendo os dados manualmente;
+O sistema deve gerar notas fiscais em PDF com layout profissional;
+Deve existir um histórico básico das notas emitidas;
+Na versão paga, o usuário poderá: Cadastrar cliente e serviços/produtos; Criar orçamentos; Converter orçamentos em NFs com um clique; Visualizar relatórios básicos de faturamento mensal.
+
+Requisitos não funcionais:
+O sistema será desenvolvido em Spring boot  no backend;
+O frontend será construído com React/Angular;
+O banco de dados utilizando PostgresSQL;
+O sistema será hospedado na Vercel;
+A aplicação deve ser acessível via celular. Na versão NF-MEI Plus o usuário poderá ter uma visualização mais ampla via web.
+
